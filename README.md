@@ -258,8 +258,8 @@ view "default" {
 
 #### Проверка на client и client2
 
-![Image 1](./splitDNSCheck01.jpg)
-![Image 2](./splitDNSCheck02.jpg)
+![Image 1](./splitDNSCheck01.png)
+![Image 2](./splitDNSCheck02.png)
 
 
 #### Проверяем, что selinux включён

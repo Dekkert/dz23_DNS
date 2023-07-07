@@ -264,6 +264,6 @@ view "default" {
 
 #### Проверяем, что selinux включён
 
-![Image 1](./sestatus01.jpg)
-![Image 2](./sestatus02.jpg)
-![Image 3](./sestatus03.jpg)
+![Image 1](./sestatus01.png)
+![Image 2](./sestatus02.png)
+![Image 3](./sestatus03.png)
